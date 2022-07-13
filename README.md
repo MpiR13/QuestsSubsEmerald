@@ -14,7 +14,17 @@ Answer 2.. Smart contracts are designed by developers to follow a certain set of
 
 Answer 3.. A script is a 'free' set of commands used to automate actions or tasks within a program whereas a transaction is a PAID function that changes data on the blockchain and therefore cost money.
 
+## Chapter 1 Day 2
 
+Please feel free to answer in the language of your choice.
+
+1. What are the 5 Cadence Programming Language Pillars?
+
+Answer 1.. xxxxx
+
+2. In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
+
+Answer 2.. xxxxx
 
 
 
