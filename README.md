@@ -16,15 +16,24 @@ Answer 3.. A script is a 'free' set of commands used to automate actions or task
 
 ## Chapter 1 Day 2
 
-Please feel free to answer in the language of your choice.
-
 1. What are the 5 Cadence Programming Language Pillars?
 
-Answer 1.. xxxxx
+Answer 1..
+
+1) Safety & Security
+2) Clarity
+3) Approachability
+4) Developer Experience
+5) Resource Oriented Programming 
 
 2. In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
 
-Answer 2.. xxxxx
+Answer 2..
+1) (provides maximum effectiveness while maintaining high levels of security based on a strong type system format)
+2) (ease of readability)
+3) (similar to other languages and therefore easy to understand and learn quickly)
+4) (deubugging is clear and allows for error messaging to be easily recognizable)
+5) (uses Recources that define how things work in Cadence)
 
 
 
