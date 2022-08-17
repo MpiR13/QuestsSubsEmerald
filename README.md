@@ -35,7 +35,11 @@ Answer 2..
 4) (deubugging is clear and allows for error messaging to be easily recognizable)
 5) (uses Recources that define how things work in Cadence)
 
+## Chapter 2 Day 1
 
+screenshots added in quests submission on discord 8-17-22
+
+## Chapter 2 Day 2
 
 
 
