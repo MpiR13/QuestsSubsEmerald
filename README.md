@@ -39,6 +39,10 @@ Answer 2..
 
 screenshots added in quests submission on discord 8-17-22
 
+![Screen Shot 2022-08-17 at 4 45 42 PM](https://user-images.githubusercontent.com/29616399/185259125-e60a9802-7467-4d0e-90bc-77ee1c784407.png)
+
+![Screen Shot 2022-08-17 at 4 46 22 PM](https://user-images.githubusercontent.com/29616399/185259199-8d2b77f9-d4fc-456b-b3ff-496e3e056dc7.png)
+
 ## Chapter 2 Day 2
 
 1. Explain why we wouldn't call changeGreeting in a script.
@@ -71,16 +75,7 @@ Answer 3..  The prepare phase accesses your account (to see what data/informatio
 
 ![Screen Shot 2022-08-17 at 6 34 55 PM](https://user-images.githubusercontent.com/29616399/185258587-ba378217-de6b-4494-ac47-a81c21802abb.jpeg)
 
-
-
-
-
-
-
-
-
-
-
+![Screen Shot 2022-08-17 at 6 35 03 PM](https://user-images.githubusercontent.com/29616399/185259271-c95e1aad-39b6-4ced-9a55-ea26b11ca686.jpeg)
 
 
 
