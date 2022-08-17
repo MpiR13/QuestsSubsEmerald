@@ -43,15 +43,15 @@ screenshots added in quests submission on discord 8-17-22
 
 1. Explain why we wouldn't call changeGreeting in a script.
 
-Answer 1..  Because a script is READ ONLY in the contract and if we are trying to change the greeting, we would need to enact a transaction in order to alter the blockchain or change it in this case.
+Answer 1..  Because a script is READ ONLY in the contract and if we are trying to change the greeting, we would need to enact a transaction in order to alter the blockchain or change it in this case. A transaction would therefore modifiy the state and cost money "gas".
 
 2. What does the AuthAccount mean in the prepare phase of the transaction?
 
-Answer 2..
+Answer 2..  It means we want to access the data in your account, the information living there.
 
 3. What is the difference between the prepare phase and the execute phase in the transaction?
 
-Answer 3..
+Answer 3..  The prepare phase accesses your account (to see what data/information is stored in your account) so that the execute phase can call functions and interact to change the data on the blockchain.
 
 4. This is the hardest quest so far, so if it takes you some time, do not worry! I can help you in the Discord if you have questions.
 
