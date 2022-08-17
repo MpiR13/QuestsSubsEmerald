@@ -56,7 +56,9 @@ Answer 3..  The prepare phase accesses your account (to see what data/informatio
 4. This is the hardest quest so far, so if it takes you some time, do not worry! I can help you in the Discord if you have questions.
 
 * Add two new things inside your contract:
+
     ** A variable named myNumber that has type Int (set it to 0 when the contract is deployed)
+    
     ** A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber
 
 ![Screen Shot 2022-08-17 at 6 27 41 PM](https://user-images.githubusercontent.com/29616399/185257761-7656690d-6334-4d30-9a10-d6c07bd1fd81.jpeg)
@@ -66,7 +68,6 @@ Answer 3..  The prepare phase accesses your account (to see what data/informatio
 ![Screen Shot 2022-08-17 at 6 27 31 PM](https://user-images.githubusercontent.com/29616399/185258324-31d6a27a-3fe4-4b6f-9c4c-52c899f2ec50.jpeg)
 
 * Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
-
 
 ![Screen Shot 2022-08-17 at 6 34 55 PM](https://user-images.githubusercontent.com/29616399/185258587-ba378217-de6b-4494-ac47-a81c21802abb.jpeg)
 
